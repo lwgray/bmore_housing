@@ -1,6 +1,6 @@
 Objective
 ------------
-This project is to predict saleprices for properties in Baltimore City
+The objective of this project is to predict saleprices for properties in Baltimore City based on Real Property Data
 
 Current Stage
 -------------
